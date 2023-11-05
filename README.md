@@ -19,11 +19,11 @@ Supported distributions:
 - AlmaLinux >= 8
 - Arch Linux
 - CentOS Stream >= 8
-- Debian >= 10
+- Debian >= 11
 - Fedora >= 32
 - Oracle Linux
 - Rocky Linux >= 8
-- Ubuntu >= 18.04
+- Ubuntu >= 20.04
 
 ## Usage
 
